@@ -3,7 +3,7 @@
 ### About Me:
 
 - I’m currently interested to learning data science and data security.
-- Recently, it`s been a pleasure to have some fun with Front-end languages.
+- Recently, it's been a pleasure to have some fun with Front-end languages.
 - You can talk to me in Portuguese, English or Spanish.
 
 ### Tech Stack:
