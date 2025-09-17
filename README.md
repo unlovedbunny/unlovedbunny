@@ -4,18 +4,18 @@ I’m currently diving into the fields of computer vision and brain-computer int
 
 <p style="text-align:center"> You can talk with me in English, Spanish, and especially Portuguese.</p>
 
-
 ## 
 ### Skills:
+<center align="center">
 <div alt="habilidades">
-  <p style="text-align:center"><img src="https://skillicons.dev/icons?i=python,java,c,php,scala"/></p>
-  <p style="text-align:center"><img src="https://skillicons.dev/icons?i=css,js,react,ts&"/></p>
-  <p style="text-align:center"><img src="https://skillicons.dev/icons?i=flutter,django,tailwind,hibernate,pytorch"/></p>
-  <p style="text-align:center"><img src="https://skillicons.dev/icons?i=docker,git,gitlab,azure"/></p>
-  <p style="text-align:center"><img src="https://skillicons.dev/icons?i=vscode,eclipse,mysql,postgresql,matlab,arduino"/></p>
-  <p style="text-align:center"><img src="https://skillicons.dev/icons?i=windows,ubuntu,linux"/></p>
+  <p><img src="https://skillicons.dev/icons?i=python,java,c,php,scala"/></p>
+  <p><img src="https://skillicons.dev/icons?i=css,js,react,ts&"/></p>
+  <p><img src="https://skillicons.dev/icons?i=flutter,django,tailwind,hibernate,pytorch"/></p>
+  <p><img src="https://skillicons.dev/icons?i=docker,git,gitlab,azure"/></p>
+  <p><img src="https://skillicons.dev/icons?i=vscode,eclipse,mysql,postgresql,matlab,arduino"/></p>
+  <p><img src="https://skillicons.dev/icons?i=windows,ubuntu,linux"/></p>
 </div>
-
+</center>
 ## 
 
 ### Workspace Specifications:
