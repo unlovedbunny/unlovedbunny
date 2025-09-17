@@ -7,7 +7,7 @@ I’m currently diving into the fields of computer vision and brain-computer int
 ## 
 ### Skills:
 <center align="center">
-<div alt="habilidades">
+<div alt="habilidades" align="center">
   <p><img src="https://skillicons.dev/icons?i=python,java,c,php,scala"/></p>
   <p><img src="https://skillicons.dev/icons?i=css,js,react,ts&"/></p>
   <p><img src="https://skillicons.dev/icons?i=flutter,django,tailwind,hibernate,pytorch"/></p>
@@ -16,8 +16,7 @@ I’m currently diving into the fields of computer vision and brain-computer int
   <p><img src="https://skillicons.dev/icons?i=windows,ubuntu,linux"/></p>
 </div>
 </center>
-## 
-
+<br>
 ### Workspace Specifications:
 
 <div style="text-align:center"><br>
