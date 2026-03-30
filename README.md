@@ -8,9 +8,9 @@ I’m currently diving into the fields of computer vision and brain-computer int
 ### Skills:
 <center align="center">
 <div alt="habilidades" align="center">
-  <p><img src="https://skillicons.dev/icons?i=python,java,c,php,scala"/></p>
+  <p><img src="https://skillicons.dev/icons?i=python,java,c,php,scala,typescript"/></p>
   <p><img src="https://skillicons.dev/icons?i=css,js,react,ts&"/></p>
-  <p><img src="https://skillicons.dev/icons?i=flutter,django,tailwind,hibernate,pytorch"/></p>
+  <p><img src="https://skillicons.dev/icons?i=Nuxt.js,Vue.js,flutter,django,tailwind,hibernate,pytorch"/></p>
   <p><img src="https://skillicons.dev/icons?i=docker,git,gitlab,azure"/></p>
   <p><img src="https://skillicons.dev/icons?i=vscode,eclipse,mysql,postgresql,matlab,arduino"/></p>
   <p><img src="https://skillicons.dev/icons?i=windows,ubuntu,linux"/></p>
@@ -20,8 +20,8 @@ I’m currently diving into the fields of computer vision and brain-computer int
 ### Workspace Specifications:
 
 <div style="text-align:center"><br>
-<img alt="SpecsComputer" height="30" width="250"  src="https://img.shields.io/badge/Windows-LENOVO_ideapad_8gb-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-<img alt="SpecsComputer" height="30" width="200" src="https://img.shields.io/badge/Intel-Core_i3_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
+<img alt="SpecsComputer" height="30" width="250"  src="https://img.shields.io/badge/Windows-ASUS_TUF_GAMING_F16_16gb-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+<img alt="SpecsComputer" height="30" width="200" src="https://img.shields.io/badge/NVIDIA-GeForce_RTX%E2%84%A2_3050_GPU-0071C5?style=for-the-badge&logo=NVIDIA&logoColor=white"/>
   
 </div><p
 >
