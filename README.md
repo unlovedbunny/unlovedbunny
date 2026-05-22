@@ -1,6 +1,6 @@
-# 👋 Hi, me chamo Eduardo 
+# 👋 Hi, me chamo Eduarda 
 
-💻 Desenvolvedor & Pesquisador em Tecnologia Assistiva (TECincluir)
+💻 Desenvolvedora & Pesquisadora em Tecnologia Assistiva (TECincluir)
 
 🎓 Estudante de Ciência da Computação na 
 <a href="https://www.instagram.com/computacao.uern.natal" target="_blank">UERN</a>
