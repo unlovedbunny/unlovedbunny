@@ -17,7 +17,7 @@ Atualmente, participo de projetos voltados à produção científica. Tenho expe
 <div alt="habilidades" align="center">
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,typescript,lua,scala,php"/>
+  <img src="https://skillicons.dev/icons?i=python,java,c,typescript,lua,scala,php,c++"/>
   </p>
 <p><img src="https://skillicons.dev/icons?i=css,js,react,ts&"/>
   </p>
