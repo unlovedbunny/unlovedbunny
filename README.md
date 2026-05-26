@@ -17,19 +17,21 @@ Atualmente, participo de projetos voltados à produção científica. Tenho expe
 <div alt="habilidades" align="center">
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,typescript,lua,scala,php,c++"/>
+  <img src="https://skillicons.dev/icons?i=python,java,c,typescript,lua,scala,php"/>
   </p>
-<p><img src="https://skillicons.dev/icons?i=css,js,react,ts&"/>
+<p><img src="https://skillicons.dev/icons?i=html,css,js,react,ts&"/>
   </p>
 <p>
   <img src="https://skillicons.dev/icons?i=vue,nuxt,flutter,django,tailwind,hibernate,pytorch"/>
   </p>
 <p><img src="https://skillicons.dev/icons?i=docker,git,gitlab,azure"/>
   </p>
-<p><img src="https://skillicons.dev/icons?i=vscode,eclipse,mysql,postgresql,matlab,arduino,androidstudio"/>
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,mysql,postgresql,matlab,arduino,firebase,androidstudio&perline=4)](https://skillicons.dev)
   </p>
 <p><img src="https://skillicons.dev/icons?i=windows,linux"/>
   </p>
+
 
 </div>
 </center>
@@ -38,16 +40,16 @@ Atualmente, participo de projetos voltados à produção científica. Tenho expe
 ### Workspace Specifications:
 
 <div style="text-align:center"><br>
-<img alt="SpecsComputer" height="50" width="250"  src="https://img.shields.io/badge/Windows-ASUS_TUF_GAMING_F16_16gb-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-<img alt="SpecsComputer" height="50" width="200" src="https://img.shields.io/badge/NVIDIA-GeForce_RTX%E2%84%A2_3050_GPU-0071C5?style=for-the-badge&logo=NVIDIA&logoColor=white"/>
+<img alt="SpecsComputer" height="30" width="300"  src="https://img.shields.io/badge/Windows-ASUS_TUF_GAMING_F16_16gb-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+<img alt="SpecsComputer" height="30" width="300" src="https://img.shields.io/badge/NVIDIA-GeForce_RTX%E2%84%A2_3050_GPU-0071C5?style=for-the-badge&logo=NVIDIA&logoColor=white"/>
   
 </div>
 
 ---
 
-<div style="text-align:center">
+<div style="text-align: center">
 <a href="https://www.linkedin.com/in/eduardo-ferreira-93781729b/" target="_blank">
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+    <img height="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
   </a>
 <a href="mailto:contato.nicholasfdl@gmail.com">
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"/>
