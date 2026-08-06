@@ -41,7 +41,7 @@ Atualmente, participo de projetos voltados à produção científica. Tenho expe
 
 <div style="text-align:center"><br>
 <img alt="SpecsComputer" height="30" width="300"  src="https://img.shields.io/badge/Windows-ASUS_TUF_GAMING_F16_16gb-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-<img alt="SpecsComputer" height="30" width="300" src="https://img.shields.io/badge/NVIDIA-GeForce_RTX%E2%84%A2_3050_GPU-0071C5?style=for-the-badge&logo=NVIDIA&logoColor=white"/>
+<img alt="SpecsComputer" height="30" width="300" src="https://img.shields.io/badge/NVIDIA-GeForce_RTX%E2%84%A2_5060_GPU-0071C5?style=for-the-badge&logo=NVIDIA&logoColor=white"/>
   
 </div>
 
