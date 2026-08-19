@@ -2,8 +2,7 @@
 
 💻 **Desenvolvedora & Pesquisadora em Tecnologia Assistiva (TECincluir)**
 
-🎓 Estudante de **Ciência da Computação** na  
-<a href="https://www.instagram.com/computacao.uern.natal" target="_blank">UERN</a>
+🎓 Estudante de **Ciência da Computação** na <a href="https://www.instagram.com/computacao.uern.natal" target="_blank">UERN</a>
 
 Atualmente, participo de projetos voltados à **produção científica e ao desenvolvimento de soluções tecnológicas**, com experiência em **Python, Java e SQL**, além de atuar na **documentação técnica de softwares e APIs**, com foco em levantamento de requisitos, análise e organização de escopos.
 
