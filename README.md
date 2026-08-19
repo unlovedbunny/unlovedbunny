@@ -51,7 +51,7 @@ Atualmente, participo de projetos voltados à produção científica. Tenho expe
 <a href="https://www.linkedin.com/in/eduardo-ferreira-93781729b/" target="_blank">
     <img height="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
   </a>
-<a href="mailto:0eduarda.fdl@gmail.com">
+<a href="mailto:0eduarda.fdl@gmail.com">Enviar e-mail</a>
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"/>
   </a>
 </div>
