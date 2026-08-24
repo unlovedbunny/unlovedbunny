@@ -74,7 +74,7 @@ Atualmente, participo de projetos voltados à **produção científica e ao dese
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/eduardo-ferreira-93781729/" target="_blank">
+<a href="https://www.linkedin.com/in/eduarda-ferreira-93781729b" target="_blank">
   <img
     height="43"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
