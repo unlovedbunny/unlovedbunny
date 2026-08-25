@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./profile.jpg" alt="Eduarda Ferreira" width="150">
+<img src="./profile.jpg" alt="Schneider" width="150">
 
 Eduarda Ferreira
 
@@ -14,15 +14,13 @@ Software Engineer · Full-Stack Developer · Researcher
 
 ---
 
-# Hi, I'm Eduarda
-
-**Software Developer & Assistive Technology Researcher**
+# Hi, I'm a **Software Developer & Assistive Technology Researcher**
 
 I am a **Computer Science undergraduate at the Universidade do Estado do Rio Grande do Norte (<a href="https://www.instagram.com/computacao.uern.natal" target="_blank">UERN</a>)**, working across software development and applied research to build technology-driven solutions for real-world challenges.
 
 My background spans **Software Engineering, Artificial Intelligence, Deep Learning, Computer Vision, neural networks, and IoT**, as well as application development and software architecture.
 
-I currently contribute to **research and technology development projects**, including initiatives in **Assistive Technology**, where I focus on building accessible solutions designed around users' needs.
+I currently contribute to **research and technology development projects**, including initiatives in **Assistive Technology and digital inclusion**, where I focus on building accessible solutions designed around users' needs.
 
 I also have experience in **technical documentation for software systems and APIs, requirements engineering, scope definition, and software organization**, with a focus on creating solutions that are maintainable, modular, and scalable.
 
